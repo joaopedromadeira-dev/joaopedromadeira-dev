@@ -3,8 +3,9 @@
 <h1 align="center">Hi 👋, I'm João Pedro Madeira</h1>
 
 <p align="center">
-🚀 Full Stack Developer <br>
-💻 Building AI-powered applications & scalable backend systems <br>
+🚀 Software Engineer (Backend & AI) <br>
+💻 Java (Spring Boot), REST APIs, Scalable Systems <br>
+🤖 Python, NLP, RAG & LLM Applications <br>
 🌎 Open to remote opportunities
 </p>
 
@@ -13,10 +14,30 @@
 <h2>👨‍💻 About Me</h2>
 
 <ul>
-  <li>🎓 Studying <b>Systems Analysis and Development</b></li>
-  <li>🤖 Background in <b>Artificial Intelligence</b></li>
-  <li>🔥 Passionate about building real-world solutions</li>
-  <li>🌱 Continuously improving backend architecture & AI systems</li>
+  <li>💼 Software Engineer with real-world experience building backend systems in production</li>
+  <li>🏛 Currently working at the State Secretariat of Culture of Goiás</li>
+  <li>⚙️ Focused on clean architecture, performance, and maintainable code</li>
+  <li>🤖 Expanding into AI engineering (LLMs, RAG, NLP)</li>
+</ul>
+
+<hr>
+
+<h2>💼 Experience</h2>
+
+<h3>Software Engineer — State Secretariat of Culture of Goiás</h3>
+<ul>
+  <li>Develop and maintain backend services using <b>Java and Spring Boot</b></li>
+  <li>Design and implement <b>REST APIs</b> used by internal and external systems</li>
+  <li>Improve system performance and maintainability using clean architecture practices</li>
+  <li>Work in Agile (Scrum) teams delivering production-ready features</li>
+  <li>Contribute to systems that impact <b>thousands of users</b></li>
+</ul>
+
+<h3>IT Assistant / Technical Support — Catral</h3>
+<ul>
+  <li>Managed infrastructure, networks, and servers (Linux & Windows)</li>
+  <li>Provided technical support and reduced downtime</li>
+  <li>Configured systems, domains, and security environments</li>
 </ul>
 
 <hr>
@@ -24,9 +45,9 @@
 <h2>⚡ What I'm Currently Working On</h2>
 
 <ul>
-  <li>Building an <b>AI Chatbot with RAG architecture</b></li>
-  <li>Improving <b>NLP model performance</b></li>
-  <li>Learning <b>scalable backend design</b></li>
+  <li>Building AI systems with <b>RAG + LLMs</b></li>
+  <li>Improving backend performance and scalability</li>
+  <li>Developing production-ready AI applications</li>
 </ul>
 
 <hr>
@@ -34,16 +55,16 @@
 <h2>🚀 Tech Stack</h2>
 
 <h3>💻 Backend</h3>
-<p>Node.js, Python, Java</p>
+<p>Java (Spring Boot), Node.js, Python</p>
 
 <h3>🎨 Frontend</h3>
 <p>React, TypeScript, JavaScript</p>
 
 <h3>🤖 AI/ML</h3>
-<p>NLP, Deep Learning, LangChain</p>
+<p>NLP, Deep Learning, LangChain, RAG, LLMs</p>
 
 <h3>🛠 Tools</h3>
-<p>MySQL, Oracle, IntelliJ IDEA, VS Code, Docker</p>
+<p>PostgreSQL, MySQL, Docker, Git, Maven, IntelliJ IDEA</p>
 
 <hr>
 
@@ -51,19 +72,17 @@
 
 <p>
 🔹 <b>AI Chatbot with RAG</b><br>
-- Retrieval-Augmented Generation (RAG) pipeline<br>
-- LangChain + embeddings + reranking<br>
-- Optimized with CrossEncoder + quantization<br>
-- Containerized with Docker<br>
+- Retrieval-Augmented Generation pipeline with LangChain<br>
+- Embeddings + reranking (CrossEncoder)<br>
+- Dockerized application<br>
 - 🔗 <a href="https://github.com/joaopedromadeira-dev">View Repository</a>
 </p>
 
 <p>
 🔹 <b>Tweet Sentiment Classification (BiGRU)</b><br>
-- NLP model using Bidirectional GRU architecture<br>
-- Text preprocessing, tokenization and embeddings<br>
-- Improved performance with hyperparameter tuning<br>
-- Built with PyTorch<br>
+- NLP model using Bidirectional GRU<br>
+- Text preprocessing and embeddings<br>
+- Performance optimization with tuning techniques<br>
 - 🔗 <a href="https://github.com/joaopedromadeira-dev">View Repository</a>
 </p>
 
