@@ -1,115 +1,129 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0de305&height=120&section=header"/>
-
-<h1 align="center">Hi 👋, I'm João Pedro Madeira</h1>
-
-<p align="center">
-🚀 Software Engineer (Backend & AI) <br>
-💻 Java (Spring Boot), REST APIs, Scalable Systems <br>
-🤖 Python, NLP, RAG & LLM Applications <br>
-🌎 Open to remote opportunities
-</p>
-
-<hr>
-
-<h2>👨‍💻 About Me</h2>
-
-<ul>
-  <li>💼 Software Engineer with real-world experience building backend systems in production</li>
-  <li>🏛 Currently working at the State Secretariat of Culture of Goiás</li>
-  <li>⚙️ Focused on clean architecture, performance, and maintainable code</li>
-  <li>🤖 Expanding into AI engineering (LLMs, RAG, NLP)</li>
-</ul>
-
-<hr>
-
-<h2>💼 Experience</h2>
-
-<h3>Software Engineer — State Secretariat of Culture of Goiás</h3>
-<ul>
-  <li>Develop and maintain backend services using <b>Java and Spring Boot</b></li>
-  <li>Design and implement <b>REST APIs</b> used by internal and external systems</li>
-  <li>Improve system performance and maintainability using clean architecture practices</li>
-  <li>Work in Agile (Scrum) teams delivering production-ready features</li>
-  <li>Contribute to systems that impact <b>thousands of users</b></li>
-</ul>
-
-<h3>IT Assistant / Technical Support — Catral</h3>
-<ul>
-  <li>Managed infrastructure, networks, and servers (Linux & Windows)</li>
-  <li>Provided technical support and reduced downtime</li>
-  <li>Configured systems, domains, and security environments</li>
-</ul>
-
-<hr>
-
-<h2>⚡ What I'm Currently Working On</h2>
-
-<ul>
-  <li>Building AI systems with <b>RAG + LLMs</b></li>
-  <li>Improving backend performance and scalability</li>
-  <li>Developing production-ready AI applications</li>
-</ul>
-
-<hr>
-
-<h2>🚀 Tech Stack</h2>
-
-<h3>💻 Backend</h3>
-<p>Java (Spring Boot), Node.js, Python</p>
-
-<h3>🎨 Frontend</h3>
-<p>React, TypeScript, JavaScript</p>
-
-<h3>🤖 AI/ML</h3>
-<p>NLP, Deep Learning, LangChain, RAG, LLMs</p>
-
-<h3>🛠 Tools</h3>
-<p>PostgreSQL, MySQL, Docker, Git, Maven, IntelliJ IDEA</p>
-
-<hr>
-
-<h2>📌 Featured Projects</h2>
-
-<p>
-🔹 <b>AI Chatbot with RAG</b><br>
-- Retrieval-Augmented Generation pipeline with LangChain<br>
-- Embeddings + reranking (CrossEncoder)<br>
-- Dockerized application<br>
-- 🔗 <a href="https://github.com/joaopedromadeira-dev">View Repository</a>
-</p>
-
-<p>
-🔹 <b>Tweet Sentiment Classification (BiGRU)</b><br>
-- NLP model using Bidirectional GRU<br>
-- Text preprocessing and embeddings<br>
-- Performance optimization with tuning techniques<br>
-- 🔗 <a href="https://github.com/joaopedromadeira-dev">View Repository</a>
-</p>
-
-<hr>
-
-<h2>📊 GitHub Stats</h2>
-
 <div align="center">
-  <img src="https://github-readme-stats-neon-one-63.vercel.app/api?username=joaopedromadeira-dev&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="150"/>
-  <img src="https://github-readme-stats-neon-one-63.vercel.app/api/top-langs/?username=joaopedromadeira-dev&layout=compact&theme=github_dark&hide_border=true" height="150"/>
+
+# João Pedro Madeira
+
+**Backend Software Engineer | Java & Spring Boot | AI, NLP & RAG**
+
+Building production backend systems at the State Secretariat of Culture of Goiás
+
+Goiânia, Brazil
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopedromadeira-dev/)
+[![Email](https://img.shields.io/badge/Email-%23333.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jps.madeira01@outlook.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=joaopedromadeira-dev&color=blueviolet&style=for-the-badge)](https://github.com/joaopedromadeira-dev)
+
 </div>
 
-<hr>
+---
 
-<h2>📫 Let's Connect</h2>
+## About
 
-<p>I'm always open to new opportunities and collaborations.</p>
+Backend Software Engineer specialized in the **Spring ecosystem**, **REST APIs**, and **scalable backend systems**. Strong focus on **clean architecture**, **performance**, and **production-ready code**.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/joaopedromadeira-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"/>
-  </a>
-  <a href="mailto:jps.madeira01@outlook.com">
-    <img src="https://img.shields.io/badge/Email-333?style=for-the-badge"/>
-  </a>
-</p>
+Currently working at the **State Secretariat of Culture of Goiás**, building and maintaining backend services that support public sector systems and impact thousands of users.
 
-<hr>
+Also expanding into **AI engineering**, working with **Python**, **LLMs**, and **RAG pipelines** to build intelligent applications.
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0de305&height=120&section=footer"/>
+**Languages**: Portuguese (native) · English (C2)
+
+---
+
+## Career
+
+| Period | Company | Role | Highlight |
+|:------:|---------|------|-----------|
+| 2025 → now | **State Secretariat of Culture of Goiás** | Software Engineer | Backend systems impacting thousands of users — REST APIs, Spring Boot, clean architecture |
+| 2024 → 2025 | **Catral** | IT Assistant | Infrastructure, servers, and technical support |
+| 2024 | **Catral** | Technical Support | User support, systems configuration, and troubleshooting |
+
+<details>
+<summary><b>Full details</b></summary>
+<br/>
+
+### State Secretariat of Culture of Goiás — Software Engineer  
+`Apr 2025 - Present` · Goiânia, Brazil
+
+- Develop and maintain backend services using **Java and Spring Boot**
+- Design and implement **REST APIs** used by internal and external systems
+- Improve performance and maintainability through **clean architecture practices**
+- Work in **Agile (Scrum)** environments delivering production-ready features
+- Contribute to systems that impact **thousands of users**
+
+---
+
+### Catral — IT Assistant  
+`Sep 2024 - Feb 2025`
+
+- Managed IT infrastructure including networks, domains, and servers
+- Maintained Linux and Windows environments
+- Improved system reliability and reduced downtime
+
+---
+
+### Catral — Technical Support  
+`Mar 2024 - Sep 2024`
+
+- Provided technical support and troubleshooting for users
+- Configured systems, access control, and infrastructure components
+- Assisted in deployment of hardware and software
+
+</details>
+
+---
+
+## Tech Stack
+
+#### Languages & Frameworks
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+#### Databases & Infrastructure
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
+
+#### AI / Data
+
+![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-blue?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-green?style=for-the-badge)
+
+---
+
+## Featured Projects
+
+| Project | Stack | Description |
+|---------|-------|-------------|
+| **AI Chatbot with RAG** | Python · LangChain · Docker | Retrieval-Augmented Generation system with embeddings, reranking, and LLM integration |
+| **Tweet Sentiment Classification** | Python · PyTorch | NLP model using BiGRU architecture with performance optimization |
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats-neon-one-63.vercel.app/api?username=joaopedromadeira-dev&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180"/>
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaopedromadeira-dev&theme=github-dark&hide_border=true" height="180"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats-neon-one-63.vercel.app/api/top-langs/?username=joaopedromadeira-dev&theme=github_dark&hide_border=true&layout=compact" width="420"/>
+</div>
+
+---
+
+## Education
+
+**Systems Analysis and Development** — PUC Goiás  
+**AI Technician Program** — SENAC  
